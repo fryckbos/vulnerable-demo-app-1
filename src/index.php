@@ -9,4 +9,3 @@ function getFilesize($filename) {
 }
 
 $filesize = getFilesize($POST["file"]);
-var_dump($filesize);
